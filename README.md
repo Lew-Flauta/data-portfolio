@@ -9,3 +9,4 @@ I am a Graduate of Computer Science from DePaul University in Chicago. I've worn
 * [Ebay Car Sales](https://github.com/Lew-Flauta/ebay_car_sales/blob/master/Basics.ipynb) - Analyzing and Cleaning Ebay Car Sales.
 * [US Gun Deaths](https://github.com/Lew-Flauta/US_gun_deaths/blob/master/Basics.ipynb) - some more analyzing data and beginning to see the power of data insights. 
 * [US Births](https://github.com/Lew-Flauta/US_births/blob/master/Basics.ipynb) - my beginnings in parsing data with Python in Jupyter notebook.
+* [Programming Portfolio](https://lewtech.github.io/projects/) - Various non-data programming projects
