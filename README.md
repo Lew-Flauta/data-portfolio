@@ -2,7 +2,7 @@
 #### data science
 
 ### About me:
-I am a Graduate of Computer Science from DePaul University in Chicago. I've worn a couple different hats in my journey: I have a background in Finance, Systems-Administration, and Development. I have been tagged with the monicker of being a Jack-of-Trades, master of none. I kept seeking out something to keep my passion, I never did until I fell into data-science and Machine Learning. While growing up,I thought it was sci-fi, all in the future, and that things wouldn't come to pass in my lifetime. I see that the future is now, and I can be a part of it! I will continue to be a Jack-of-all-trades, but I will also strive to be the Master-of-One...Data Science!
+I am a Graduate of Computer Science from DePaul University in Chicago. I've worn a couple different hats in my journey: I have a background in Finance, Systems-Administration, and Development. 
 
 ### Projects
 * [NLP-categorization and ensemble](https://github.com/lewai/nlp-classification/blob/master/nlp%20categories.ipynb) - taking in a corpus of data and finding the category of item they belong to.
